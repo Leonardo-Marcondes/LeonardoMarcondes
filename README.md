@@ -1,9 +1,5 @@
 <h1 align="center">Olá! Eu sou o Leonardo Marcondes 👋</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=leonardomarcondes&color=blue" alt="Perfil view counter"/>
-</p>
-
 ## 💻 Sobre mim
 
 🎓 Técnico em Desenvolvimento de Sistemas pela ETEC Parque Belém  
@@ -28,15 +24,6 @@
 
 ---
 
-## 📈 Estatísticas
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=leonardomarcondes&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardomarcondes&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 📫 Contato
 
 <p align="center">
@@ -44,12 +31,4 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:seuemail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  Obrigado por visitar meu perfil! 💙
-</p>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
