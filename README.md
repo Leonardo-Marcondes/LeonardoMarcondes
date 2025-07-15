@@ -1,4 +1,3 @@
-
 <h1 align="center">Olá! Eu sou o Leonardo Marcondes 👋</h1>
 
 <p align="center">
@@ -11,22 +10,22 @@
 🛠️ Curso de Banco de Dados (MySQL Workbench) pelo SENAI Roberto Simonsen  
 🌎 Intercâmbio para estudo de inglês na ILSC Language School – Canadá  
 📚 Cursando Ciência da Computação pela FAM  
-🚀 Profissional de tecnologia com experiência em Fluig, Python e desenvolvimento web  
+🚀 Profissional de tecnologia com experiência em **Fluig**, **Python** e desenvolvimento web  
 ⚽ Corinthiano roxo e gamer nas horas vagas (Rocket League, Rainbow Six, Fortnite)
 
 ---
 
 ## 🧠 Tecnologias e Ferramentas
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Fluig](https://img.shields.io/badge/-Fluig-FF6A00?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiPjxwYXRoIGQ9Ik0xMiAyYTggOCAwIDEgMCAwIDE2IDggOCAwIDAgMCAwLTE2em0wIDE0YTcgNyAwIDEgMSAwLTE0IDcgNyAwIDAgMSAwIDE0eiIvPjwvc3ZnPg==)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![Fluig](https://img.shields.io/badge/-Fluig-FF6A00?style=flat)
 
 ---
 
@@ -41,8 +40,14 @@
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-marcondes-de-farias-6a8a79345)
-[![Gmail](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/leonardo-marcondes-de-farias-6a8a79345" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
 ---
 
