@@ -1,19 +1,14 @@
-<h1 align="center">Olá! Eu sou o Leonardo Marcondes 👋</h1>
-
-<p align="center">
-Sou um entusiasta da tecnologia com formação técnica, experiência em automações no Fluig, desenvolvimento em Python e grande interesse por soluções digitais que geram impacto. Sempre buscando aprender mais e contribuir com projetos significativos.
-</p>
-
----
+<h1>Olá! Eu sou o Leonardo Marcondes 👋</h1>
 
 ## 💻 Sobre mim
+
+<p>Sou um entusiasta da tecnologia com formação técnica, experiência em automações no Fluig, desenvolvimento em Python e grande interesse por soluções digitais que geram impacto. Sempre buscando aprender mais e contribuir com projetos significativos.</p>
 
 🎓 Técnico em Desenvolvimento de Sistemas pela ETEC Parque Belém  
 🛠️ Curso de Banco de Dados (MySQL Workbench) pelo SENAI Roberto Simonsen  
 🌎 Intercâmbio para estudo de inglês na ILSC Language School – Canadá  
 📚 Cursando Ciência da Computação pela FAM  
 🚀 Profissional de tecnologia com experiência em **Fluig**, **Python** e desenvolvimento web  
-⚽ Corinthiano roxo e gamer nas horas vagas (Rocket League, Rainbow Six, Fortnite)
 
 ---
 
